@@ -1,0 +1,27 @@
+.navbar {
+    background: #003580
+}
+
+#navbarSupportedContent {
+    flex-grow: unset;
+}
+
+nav .navbar-nav li a{
+    color: #F4F7F6 !important;
+}
+
+.user_icon {
+    color: #fff
+}
+
+.logo {
+    color: #fff
+}
+
+.navbar-dark .navbar-toggler-icon {
+    color:#fff
+}
+
+.navbar-light .navbar-toggler-icon {
+    background-image: url("../../assets/icons/Menu\ Opener.svg");
+  }

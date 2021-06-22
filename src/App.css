@@ -1,0 +1,34 @@
+@font-face {
+    font-family: "SF-Pro-Display-Light";
+    src: local("Roboto"), url(./assets/fonts/SF-Pro-Display-Light.ttf) format("truetype");
+  }
+  
+@font-face {
+    font-family: "SF-Pro-Display-LightItalic";
+    src: local("Roboto"), url(./assets/fonts/SF-Pro-Display-LightItalic.ttf) format("truetype");
+  }
+@font-face {
+    font-family: "SF-Pro-Display-Medium";
+    src: local("Roboto"), url(./assets/fonts/SF-Pro-Display-Medium.ttf) format("truetype");
+  }
+@font-face {
+    font-family: "SF-Pro-Display-MediumItalic";
+    src: local("Roboto"), url(./assets/fonts/SF-Pro-Display-MediumItalic.ttf) format("truetype");
+  }
+  
+@font-face {
+    font-family: "SF-Pro-Display-Regular";
+    src: local("Roboto"), url(./assets/fonts/SF-Pro-Display-Regular.ttf) format("truetype");
+  }
+  
+@font-face {
+    font-family: "SF-Pro-Display-Regular";
+    src: local("Roboto"), url(./assets/fonts/SF-Pro-Display-RegularItalic.ttf) format("truetype");
+  }
+  
+ 
+  
+  body,
+  html {
+    font-family: "SF-Pro-Display-Medium", sans-serif;
+  }

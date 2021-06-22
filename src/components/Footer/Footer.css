@@ -1,0 +1,61 @@
+.logo {
+    display: flex;
+    align-items: center;
+}
+
+.page-footer {
+    background: #00193c;
+    padding-top: 5rem;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    bottom:0;
+    top:0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+.text-white {
+    color: #f4f7f6;
+    font-size: 17px;
+}
+
+.top-border {
+    border: none
+}
+
+.bottom-border {
+    border: "none"
+}
+
+@media only screen and (max-width: 728px) {
+    .top-border {
+        border-top: 1px solid #fff;
+    }
+    .bottom-border {
+        border-bottom: 1px solid #fff
+    }
+}
+
+.footer-copyright {
+    font-size: 16px;
+    font-weight: 300;
+    color: #f4f7f6
+}
+
+.text-weight {
+    font-weight: 400;
+}
+
+.list-text {
+    text-decoration: none;
+    color: #f4f7f6;
+    font-weight: 200;
+    font-size: 14px;
+}
+
+i {
+    font-size: 14px;
+}
